@@ -2,12 +2,4 @@
 
 **Estos son ejemplos sencillos sobre el lenguaje golang, agregare mas mientras aprenda.**
 
-`package grettings
-
-import "fmt"
-
-func Hola(nombre string) string {
-message := fmt.Sprintf("Hola, %v. Welcome", nombre)
-return message
-}
-`
+![golang logo](https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/12/golang.png?w=700&ssl=1)
