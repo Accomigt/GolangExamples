@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Go!, my favorite number is ", (math.Pi))
+	fmt.Println("Hello Go!, my favorite number is ", (math.Pi * 2))
 }
